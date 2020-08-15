@@ -6,3 +6,17 @@
 body {
   min-height: 100vh;
 }
+
+.container {
+  width: 1152px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+nav {
+  background: rgb(41, 197, 41);
+  color: #fff;
+  padding: 2rem;
+
+
+}
